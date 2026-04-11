@@ -29,12 +29,12 @@
     <td width="50%">
       <h3 align="center">Marksfuncs Python Library</h3>
       <div align="center">
-        <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+        <a href="https://github.com/fantasticsmarc/marksfuncs" target="_blank">
           <img src="https://i.ibb.co/BKXJv6h/marksfuncs3.png" width="400" alt="Marksfuncs Python Library">
         </a>
         <br>
         <p>
-          <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+          <a href="https://github.com/fantasticsmarc/marksfuncs" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://pypi.org/project/marksfuncs/" target="_blank">
@@ -48,7 +48,7 @@
   <td width="50%">
       <h3 align="center">Marksgeometrys Python Library</h3>
       <div align="center">                                       
-        <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
+        <a href="https://github.com/fantasticsmarc/marksgeometrys" target="_blank">
           <img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksgeometrys Python Library">
         </a>
         <br>
@@ -74,11 +74,11 @@
       <td width="50%">
         <h3 align="center">MarksAi Discord Bot</h3>
         <div align="center">
-          <a href="https://github.com/marc1fino/MarksAi" target="_blank">
+          <a href="https://github.com/fantasticsmarc/MarksAi" target="_blank">
             <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
           </a>
           <p>
-            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
+            <a href="https://github.com/fantasticsmarc/MarksAi" target="_blank">
               <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
