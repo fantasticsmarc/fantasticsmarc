@@ -157,6 +157,4 @@
 - [ ] [✏️ **AI Resume Analyzer**](https://www.notion.so/AI-Resume-Analyzer-343c52eb1874804087a1efe3244ac716?pvs=21)
 
 - [ ] [🖌️ **Air Canvas AI**](https://www.notion.so/Air-Canvas-AI-344c52eb187480b58a84dc8f7e84aeb2?pvs=21)
-<div align="center">
-<h1 align="center"> See the full Notion Roadmap [here](https://www.notion.so/Roadmap-IA-Backend-343c52eb1874805da29bda8a3989d711?pvs=21) 📍</h1>
-</div>
+See the full Notion Roadmap [**here**](https://www.notion.so/Roadmap-IA-Backend-343c52eb1874805da29bda8a3989d711?pvs=21) 📍
