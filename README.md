@@ -89,3 +89,73 @@
     </tr>
   </table>
 </div>
+<br>
+<br>
+<br>
+<br>
+## Roadmap
+
+- [ ] [CS50 - **Introduction to Programming with Python**](https://www.notion.so/CS50-Introduction-to-Programming-with-Python-343c52eb1874802e8271ce53baab643b?pvs=21)
+
+- [ ] [Cognitive Class — **Python for Data Science**](https://www.notion.so/Cognitive-Class-Python-for-Data-Science-bbd85f4571254f33a24f1196829268dd?v=647f4903cb304745936c9832241b047a?pvs=21)
+
+- [ ] [freeCodeCamp — **JavaScript Algorithms and Data Structures**](https://www.notion.so/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-42e3f66087424744a3b48dec1d3c9374?pvs=21)
+
+- [ ] [🟩 **Node.js REST API — CRUD Users**](https://www.notion.so/Node-js-REST-API-CRUD-Users-4633350ecfda4f1ca890fcb33f66cfc7?pvs=21)
+
+- [ ] [🟦 **FastAPI REST API — CRUD Users (mirror)**](https://www.notion.so/FastAPI-REST-API-CRUD-Users-mirror-37e96f0bea7f45b89dad59e776802607?pvs=21)
+
+- [ ] [Kaggle Learn — **Intro to SQL**](https://www.notion.so/Kaggle-Learn-Intro-to-SQL-16862a00114b40be86a099553cce36cf?pvs=21)
+
+- [ ] [Kaggle Learn — **Advanced SQL**](https://www.notion.so/Kaggle-Learn-Advanced-SQL-343c52eb187480218c02e105f30ae11f?pvs=21)
+
+- [ ] [🟧 **Backend API connected to SQL database**](https://www.notion.so/Backend-API-connected-to-SQL-database-d39bd84f91d94705be235ae224d60140?pvs=21)
+
+- [ ] [Kaggle — **Pandas**](https://www.notion.so/Kaggle-Pandas-343c52eb187480258ee3d1aa7fa8b5ef?pvs=21)
+
+- [ ] [Kaggle — **Data Cleaning**](https://www.notion.so/Kaggle-Data-Cleaning-343c52eb187480d99e95eea3b1d9616e?pvs=21)
+
+- [ ] [📊 **CSV data analyzer (Python)**](https://www.notion.so/CSV-data-analyzer-Python-9fb9ccdf36bb4f83be95579e12de650a?pvs=21)
+
+- [ ] [Kaggle — **Intro to Machine Learning**](https://www.notion.so/Kaggle-Intro-to-Machine-Learning-08b7fb08cc3f444d9abf19b099772f72?pvs=21)
+
+- [ ] [Kaggle — **Intermediate Machine Learning**](https://www.notion.so/Kaggle-Intermediate-Machine-Learning-82fafebeb8be43a39cfa98d706610e59?pvs=21)
+
+- [ ] [Kaggle — **Feature Engineering**](https://www.notion.so/Kaggle-Feature-Engineering-9ce92a37807144859d9db4b94f074992?pvs=21)
+
+- [ ] [NVIDIA  — **Developer Program**](https://www.notion.so/NVIDIA-Developer-Program-343c52eb1874809d9fe4ecf03ec3c3a5?pvs=21)
+
+- [ ] [🤖 **Machine learning classifier (tabular)**](https://www.notion.so/Machine-learning-classifier-tabular-746d51fedd60451f8ef5d6b8ff74842d?pvs=21)
+
+- [ ] [✨ **Recommendation system**](https://www.notion.so/Recommendation-system-358842353de8488eb9a2f8de88197f91?pvs=21)
+
+- [ ] [freeCodeCamp — **Backend Development and APIs**](https://www.notion.so/freeCodeCamp-Backend-Development-and-APIs-c9f321007e514177b73e813689890095?pvs=21)
+
+- [ ] [Kaggle — **Intro to Deep Learning**](https://www.notion.so/Kaggle-Intro-to-Deep-Learning-4c14f895ceca41d78ad8f04d833a1350?pvs=21)
+
+- [ ] [🚀 **AI-powered API — /predict endpoint**](https://www.notion.so/AI-powered-API-predict-endpoint-e9c4eb1f1181474ab75018cfbac1a4c7?pvs=21)
+
+- [ ] [🧩 **Better Discord bot connected to AI API**](https://www.notion.so/Better-Discord-bot-connected-to-AI-API-fd5682209d1e412a8990313c1d8d1414?v=647f4903cb304745936c9832241b047a?pvs=21)
+
+- [ ] [Anthropic — **AI Fluency: Framework & Foundations**](https://www.notion.so/Anthropic-AI-Fluency-Framework-Foundations-343c52eb187480f6b640c40b30bd038c?pvs=21)
+
+- [ ] [Coursera - **Google AI Essentials**](https://www.notion.so/Coursera-Google-AI-Essentials-344c52eb187480b8b954f4892b4e3486?pvs=21)
+
+- [ ] [Github — **Github Foundations Certification**](https://www.notion.so/Github-Github-Foundations-Certification-343c52eb18748025918ceb8d377e50a5?pvs=21)
+
+- [ ] [Coursera - **Google Project Management**](https://www.notion.so/Coursera-Google-Project-Management-344c52eb187480c1a2d9e332603cbecf?pvs=21)
+
+- [ ] [➡️ **n8n — Beginner Course (Level 1)**](https://www.notion.so/n8n-Beginner-Course-Level-1-343c52eb187480488810dbe3a7813791?pvs=21)
+
+- [ ] [🌭 **“Not Hotdog” Detector**](https://www.notion.so/Not-Hotdog-Detector-343c52eb187480189bc8c171561f81f7?pvs=21)
+
+- [ ] [🗣️ **Voice Virtual Assistant**](https://www.notion.so/Voice-Virtual-Assistant-343c52eb187480519ae6e1ed1a05ba95?pvs=21)
+
+- [ ] [🧠 **Multi-Agent AI App**](https://www.notion.so/Multi-Agent-AI-App-343c52eb187480c2bd1aebb8dd0e7cf6?pvs=21)
+
+- [ ] [✏️ **AI Resume Analyzer**](https://www.notion.so/AI-Resume-Analyzer-343c52eb1874804087a1efe3244ac716?pvs=21)
+
+- [ ] [🖌️ **Air Canvas AI**](https://www.notion.so/Air-Canvas-AI-344c52eb187480b58a84dc8f7e84aeb2?pvs=21)
+<div align="center">
+<h1 align="center"> See the full Notion Roadmap [here](https://www.notion.so/Roadmap-IA-Backend-343c52eb1874805da29bda8a3989d711?pvs=21) 📍</h1>
+</div>
