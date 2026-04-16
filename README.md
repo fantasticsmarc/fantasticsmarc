@@ -94,7 +94,7 @@
 <br>
 <br>
 
-## Roadmap
+## 🚀 AI + Backend Roadmap
 
 > 📍 [View full interactive roadmap in Notion](https://www.notion.so/Roadmap-IA-Backend-343c52eb1874805da29bda8a3989d711?pvs=21)
 
@@ -149,19 +149,22 @@
 
 | Status | Type | Resource | Link |
 |--------|------|----------|------|
-| ⬜ | 📚 Course | Backend APIs | [Open](https://www.notion.so/freeCodeCamp-Backend-Development-and-APIs-c9f321007e514177b73e813689890095?pvs=21) |
-| ⬜ | 📚 Course | Deep Learning | [Open](https://www.notion.so/Kaggle-Intro-to-Deep-Learning-4c14f895ceca41d78ad8f04d833a1350?pvs=21) |
+| ⬜ | 📚 Course | Backend Development & APIs | [Open](https://www.notion.so/freeCodeCamp-Backend-Development-and-APIs-c9f321007e514177b73e813689890095?pvs=21) |
+| ⬜ | 📚 Course | Intro to Deep Learning | [Open](https://www.notion.so/Kaggle-Intro-to-Deep-Learning-4c14f895ceca41d78ad8f04d833a1350?pvs=21) |
 | ⬜ | 💻 Project | AI API (/predict) | [Open](https://www.notion.so/AI-powered-API-predict-endpoint-e9c4eb1f1181474ab75018cfbac1a4c7?pvs=21) |
 | ⬜ | 💻 Project | AI Discord Bot | [Open](https://www.notion.so/Better-Discord-bot-connected-to-AI-API-fd5682209d1e412a8990313c1d8d1414?pvs=21) |
 | ⬜ | 📚 Course | AI Fluency (Anthropic) | [Open](https://www.notion.so/Anthropic-AI-Fluency-Framework-Foundations-343c52eb187480f6b640c40b30bd038c?pvs=21) |
 | ⬜ | 📚 Course | Google AI Essentials | [Open](https://www.notion.so/Coursera-Google-AI-Essentials-344c52eb187480b8b954f4892b4e3486?pvs=21) |
+| ⬜ | 📚 Course | n8n Beginner Course | [Open](https://www.notion.so/n8n-Beginner-Course-Level-1-343c52eb187480488810dbe3a7813791?pvs=21) |
 
 ---
 
-### 🧠 Advanced / Extra Projects
+### 🧠 Advanced / Projects and Courses
 
 | Status | Type | Project | Link |
 |--------|------|--------|------|
+| ⬜ | 📚 Course | GitHub Foundations Certification | [Open](https://www.notion.so/Github-Github-Foundations-Certification-343c52eb18748025918ceb8d377e50a5?pvs=21) |
+| ⬜ | 📚 Course | Google Project Management | [Open](https://www.notion.so/Coursera-Google-Project-Management-344c52eb187480c1a2d9e332603cbecf?pvs=21) |
 | ⬜ | 💻 Project | Not Hotdog Detector 🌭 | [Open](https://www.notion.so/Not-Hotdog-Detector-343c52eb187480189bc8c171561f81f7?pvs=21) |
 | ⬜ | 💻 Project | Voice Assistant 🗣️ | [Open](https://www.notion.so/Voice-Virtual-Assistant-343c52eb187480519ae6e1ed1a05ba95?pvs=21) |
 | ⬜ | 💻 Project | Multi-Agent AI 🧠 | [Open](https://www.notion.so/Multi-Agent-AI-App-343c52eb187480c2bd1aebb8dd0e7cf6?pvs=21) |
