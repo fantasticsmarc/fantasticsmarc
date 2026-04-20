@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hey there! You can call me <strong>mark.</strong> 👋</h1>
 </div>
-<img src="https://i.ibb.co/kSpjZgb/brie.png">
 
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
 
