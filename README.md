@@ -20,6 +20,16 @@
 <br>
 <br>
 
+## Github Stats
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fantasticsmarc&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fantasticsmarc&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
 ## Cool Projects
 <table>
   <tr>
