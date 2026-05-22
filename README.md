@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hey there! You can call me <strong>mark.</strong> 👋</h1>
+<h1 align="center">Hey there! You can call me <strong>Marc</strong> 👋</h1>
 </div>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## Github Stats
+## 📊 Github Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
@@ -48,15 +48,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fantasticsmarc&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
 </p>
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=fantasticsmarc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=fantasticsmarc&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
-## Cool Projects
+## 😎 Cool Projects
 <table>
   <tr>
     <td width="50%">
