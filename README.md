@@ -33,11 +33,10 @@
 <br>
 
 ## Github Stats
-<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
-
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fantasticsmarc&theme=gruvbox" alt="Repos per Language" width="48%" />
