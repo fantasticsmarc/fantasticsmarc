@@ -2,11 +2,15 @@
 <h1 align="center">Hey there! You can call me <strong>mark.</strong> 👋</h1>
 </div>
 
-<div align="center">
-![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge)](mailto:marcperezcarrasco2010@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=fantasticsmarc&style=for-the-badge&color=blue)
-</div>
+<p align="center">
+  <img src="https://dcbadge.limes.pink/api/shield/708377162318741537" alt="Discord Shield" valign="middle"/>
+  &nbsp;&nbsp;
+  <a href="mailto:marcperezcarrasco2010@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" valign="middle"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=fantasticsmarc&style=for-the-badge&color=blue" alt="Views" valign="middle"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph-dark.svg">
