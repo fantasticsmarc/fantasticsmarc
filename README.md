@@ -16,7 +16,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-## Language & Tools
+## 🛠️ Language & Tools
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
