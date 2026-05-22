@@ -11,6 +11,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 ## Language & Tools
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
