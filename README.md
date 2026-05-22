@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://dcbadge.limes.pink/api/shield/708377162318741537" alt="Discord Shield" valign="middle"/>
   &nbsp;&nbsp;
-  <a href="mailto:marcperezcarrasco2010@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" valign="middle"/>
-  </a>
+  <a href="mailto:marcperezcarrasco2010@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" valign="middle"/></a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=fantasticsmarc&style=for-the-badge&color=blue" alt="Views" valign="middle"/>
 </p>
