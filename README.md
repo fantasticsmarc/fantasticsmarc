@@ -21,7 +21,6 @@
 <br>
 
 ## Github Stats
-## Github Stats
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
@@ -33,7 +32,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fantasticsmarc&theme=tokyonight" alt="Most Commit Language" width="48%" />
 </p>
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fantasticsmarc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" width="48%" />
+</p>
 
 ## GitHub Trophies
 
