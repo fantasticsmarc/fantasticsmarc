@@ -23,17 +23,18 @@
 ## Github Stats
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fantasticsmarc&theme=tokyonight" alt="Repos per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fantasticsmarc&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fantasticsmarc&theme=gruvbox" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fantasticsmarc&theme=gruvbox" alt="Most Commit Language" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fantasticsmarc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fantasticsmarc&theme=gruvbox" alt="Stats" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fantasticsmarc&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
 </p>
 
 ## GitHub Trophies
