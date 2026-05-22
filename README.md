@@ -3,7 +3,7 @@
 </div>
 
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge)](mailto:marcperezcarrasco2010@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:marcperezcarrasco2010@gmail.com)
 
 ## Language & Tools
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
