@@ -74,7 +74,7 @@ Always learning, building, and exploring new technologies 🚀
 <br>
 
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAvc3ZnIj48dGl0bGU+T3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxIDkuODIxYTEuOTc4IDEuOTc4IDAgMCAwLS4xNTgtMS42MjRsLTIuMTQtMy43MDdhMS45ODQgMS45ODQgMCAwIDAtMS4xOTktLjkzM2wtNC4zMzYtMS4yNDRhMS45ODQgMS45ODQgMCAwIDAtMS41MjkuMTk1TDMuMjQ1IDcuOTk2YTEuOTg3IDEuOTg3IDAgMCAwLS45MzIIDEuMTk5bC0xLjI0NCA0LjMzNmExLjk4NCAxLjk4NCAwIDAgMCAuMTk1IDEuNTI5bDIuMTQgMy43MDdhMS45ODQgMS45ODQgMCAwIDAgMS4xOTkuOTMzbDQuMzM2IDEuMjQ0YTEuOTg0IDEuOTg0IDAgMCAwIDEuNTI5LS4xOTVsOS42NzQtNS40ODhhMS45ODMgMS45ODMgMCAwIDAgLjkzMy0xLjE5OWwxLjI0NC00LjMzNnoiLz48L3N2Zz4=)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=simpleicons&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 <br clear="left"/>
