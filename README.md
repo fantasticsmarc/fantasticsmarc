@@ -23,6 +23,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/fantasticsmarc?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" valign="middle"/>
 </p>
+
 ## 👨‍💻 About Me
 
 16-year-old student currently studying 4th year of ESO, focused on becoming a Backend + AI Developer.
