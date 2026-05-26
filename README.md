@@ -71,10 +71,7 @@ Always learning, building, and exploring new technologies 🚀
 <img align="left" alt="VS Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
 
-<br>
-<br>
-<br>
-<br>
+<br clear="left"/>
 
 ## 📊 Github Stats
 
