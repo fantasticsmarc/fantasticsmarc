@@ -23,6 +23,22 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/fantasticsmarc?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" valign="middle"/>
 </p>
+## 👨‍💻 About Me
+
+16-year-old student currently studying 4th year of ESO, focused on becoming a Backend + AI Developer.
+
+Passionate about backend development, data science, artificial intelligence, and building real-world projects that combine software, automation, and intelligent systems.
+
+Currently learning and experimenting with:
+- AI & Machine Learning
+- Backend architectures & APIs
+- Data analysis
+- Computer vision
+- Robotics & embedded systems using Arduino and ESP32
+
+I enjoy creating projects that mix creativity and technology, from AI-powered applications to automation tools and interactive systems.
+
+Always learning, building, and exploring new technologies 🚀🎓
 
 ## 🛠️ Language & Tools
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
