@@ -16,14 +16,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.73%20Million-blue?style=for-the-badge" alt="Lines of code" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Code%20Time-5%2C354%20hrs%2041%20mins-blue?style=for-the-badge" alt="Code Time" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/fantasticsmarc?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" valign="middle"/>
-</p>
-
 ## 👨‍💻 About Me
 
 16-year-old student currently studying 4th year of ESO, focused on becoming a Backend + AI Developer.
