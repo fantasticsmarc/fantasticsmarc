@@ -67,6 +67,9 @@ Always learning, building, and exploring new technologies 🚀
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="ESP32" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg"/>
 
+<img align="left" alt="OpenAI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
+<img align="left" alt="Ollama" width="50px" src="https://ollama.com/public/ollama.svg"/>
+
 <img align="left" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="VS Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
