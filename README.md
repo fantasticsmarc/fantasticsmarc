@@ -17,7 +17,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=for-the-badge" alt="Lines of code" valign="middle"/>
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.73%20Million-blue?style=for-the-badge" alt="Lines of code" valign="middle"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Code%20Time-5%2C354%20hrs%2041%20mins-blue?style=for-the-badge" alt="Code Time" valign="middle"/>
   &nbsp;&nbsp;
