@@ -43,13 +43,32 @@ Always learning, building, and exploring new technologies 🚀
 
 ## 🛠️ Language & Tools
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Express" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+<img align="left" alt="FastAPI" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="SQLite" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+
+<img align="left" alt="Pandas" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="NumPy" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Scikit Learn" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="left" alt="PyTorch" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
+<img align="left" alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/>
+
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="VsCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="ESP32" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg"/>
+
+<img align="left" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
+<img align="left" alt="VS Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
 
 <br>
