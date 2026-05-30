@@ -91,7 +91,7 @@ Always learning, building, and exploring new technologies 🚀
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=fantasticsmarc&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+![fantasticsmarc trophies](https://github-profile-trophy.vercel.app/?username=fantasticsmarc&theme=flat&row=1&column=6&no-bg=true&no-frame=true)
 
 </div>
 
